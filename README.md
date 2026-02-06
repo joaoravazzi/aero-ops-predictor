@@ -31,6 +31,8 @@ O dashboard final responde a perguntas críticas de negócio:
 * **Análise de Performance:** Gráficos que mostram o comportamento de velocidade e altitude da aeronave ao longo do tempo.
 * **Matriz de Risco:** Monitoramento da pontualidade e condições de pista (Seca vs. Molhada).
 
+[![Acessar Dashboard](https://img.shields.io/badge/Acessar%20Dashboard-Click%20Here-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/reports/771ca17f-8fd1-4e13-89e8-bece52988cbd/94020689054418c35e7c?ctid=bd697c1b-c481-479c-841e-c618542675c3&experience=power-bi)
+
 ---
 
 ## 📂 Como Utilizar este Repositório
