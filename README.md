@@ -51,6 +51,6 @@ Por questões de segurança e proteção de dados, as credenciais de acesso ao b
 ---
 
 ## 👥 Agradecimentos
-* **Equipe:** João Victor Ravazzi Ferretti, Andrey Alves Miranda, Carrie Jenniffer Alves Mota, Juliana Malheiros, Leandro Falasca.
+* **Equipe:** João Victor Ravazzi Ferretti, Andrey Alves Miranda, Carrie Jenniffer Alves Mota, Juliana Malheiros, Leandro Falasca e Glaucia Pacheco.
 * **Instrutores:** Luiz Chiavini e Samuel Reginatto
 * **Apoiadores:** Generation Brasil, Grupo Cyrela e CashMe.
